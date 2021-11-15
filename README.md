@@ -1,2 +1,10 @@
 # links
-all my links are here
+
+https://github.com/abhishekit04
+
+https://abhishekit04.github.io/
+
+
+https://twitter.com/Abhishek_IT04
+
+https://www.linkedin.com/in/abhishekit04/
